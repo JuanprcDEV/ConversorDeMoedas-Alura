@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo-branca.png"  />
+  <img height="100" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4"  />
 </div>
 
 ###
