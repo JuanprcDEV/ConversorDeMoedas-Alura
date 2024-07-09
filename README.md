@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4"  />
+  <img height="100" src="https://yt3.googleusercontent.com/W7GokEE6ydjZFa_Tpz6yvSsDlVPTe7d4yTsJqKXy1Gbhu1BGXCfKJ_I-_TzOq37m8R9S97kQ=s900-c-k-c0x00ffffff-no-rj"/>
 </div>
 
 ###
